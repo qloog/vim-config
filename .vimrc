@@ -1,5 +1,5 @@
 " ===========================================
-" Who: Quanlong Wang
+" Who: Qloog
 " What: .vimrc of champions
 " Version: 1.0 - Now individual config files!
 " ===========================================
